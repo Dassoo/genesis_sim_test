@@ -1,7 +1,7 @@
 # Genesis: Robotic Transportation simulation test
 
 In the project repository:
-'''bash
+'''
 git clone https://github.com/Genesis-Embodied-AI/Genesis
 '''
 
