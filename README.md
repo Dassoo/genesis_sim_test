@@ -9,4 +9,4 @@ Genesis is a research-driven project focused on robotic object reconstruction us
 
 ![Genesis sim](genesis_rec.gif)
 
-The GIF above showcases a simulation of real-time object reconstruction using dual robotic arms in a simulation environment (the second robotic arm is supposed to have a mounted camera).
+The GIF above showcases the project-proposed simulation of a real-time object transportation and scanning using dual robotic arms in a simulation environment (the second robotic arm is supposed to have a mounted camera).
